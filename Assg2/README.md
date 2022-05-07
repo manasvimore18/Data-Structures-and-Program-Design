@@ -1,6 +1,6 @@
 ## Phonebook_AVL.c
 
-A phonebook is implemented as two AVL trees for Personal annd Professional contacts each where each node is represented as first name, last name and mobile number and additional nodes like e-mail, office no., address, etc for every contacts. Personal contact list has first name, last name, mobile number, email, type as it's nodes and professional contact list has first name, last name, mobile number, email, office number, address,institute/office and type as it's nodes. Mobile number (considered as integer) is considered as key of the record.
+A phonebook is implemented as two AVL trees for Personal annd Professional contacts each where each node is represented as first name, last name and mobile number and additional nodes like e-mail, office no., address, etc for every contact. Personal contact list has first name, last name, mobile number, email, type as it's nodes and professional contact list has first name, last name, mobile number, email, office number, address,institute/office and type as it's nodes. Mobile number (considered as integer) is considered as key of the record.
 
 **The following functions/operations are implemented for both personal and professional AVL tree:**
 
