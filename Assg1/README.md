@@ -1,6 +1,6 @@
 ## Phonebook_LinkedList.c
 
-A phonebook is implemented as 2 linked list of data structures for personal and professional contacts where each node is represented as first name, last name, mobile number and additional nodes like e-mail, office no., address, etc for every contacts. Personal contact list has first name, last name, mobile number, email and type as it's nodes. Professional contact list has first name, last name, mobile number, email, office number, address,institute/office and type as it's nodes. The lists are sorted based on names. If names in two records are same, then such records are ordered based on mobile number (by considering its integer value).
+A phonebook is implemented as 2 linked list of data structures for personal and professional contacts where each node is represented as first name, last name, mobile number and additional nodes like e-mail, office no., address, etc for every contact. Personal contact list has first name, last name, mobile number, email and type as it's nodes. Professional contact list has first name, last name, mobile number, email, office number, address,institute/office and type as it's nodes. The lists are sorted based on names. If names in two records are same, then such records are ordered based on mobile number (by considering its integer value).
 
 **The following functions/operations are implemented for personal and professional linked lists:**
 
